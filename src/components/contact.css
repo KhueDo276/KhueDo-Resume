@@ -1,0 +1,44 @@
+.contactpage {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.contactpage > h1 {
+  color: rgb(82, 169, 209);
+  font-size: 25px;
+  font-family: fantasy;
+  text-align: center;
+}
+.contact-header {
+  color: white;
+  font-family: fantasy;
+  text-align: center;
+}
+.contact-header > p {
+  font-family: fantasy;
+  font-size: larger;
+  padding-bottom: 10%;
+}
+.contact-way {
+  background-position: center;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+.contact-loc > p,
+.contact-email > p,
+.contact-connect > p {
+  font-family: "Times New Roman", Times, serif;
+}
+h2 {
+  padding-bottom: 10px;
+  color: rgb(82, 169, 209);
+}
+
+.icons {
+  font-size: 80px;
+  color: white;
+}
+.icons:hover {
+  color: rgba(241, 13, 184, 0.986);
+}

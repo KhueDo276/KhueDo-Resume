@@ -1,0 +1,137 @@
+.resume {
+  color: rgb(82, 169, 209);
+  font-size: 25px;
+  font-family: fantasy;
+  text-align: center;
+}
+.Experience {
+  text-align: center;
+}
+h1 {
+  padding-top: 25px;
+  font-family: fantasy;
+}
+.Experience > p {
+  color: grey;
+  padding-bottom: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.resume-header {
+  position: absolute;
+  left: 50%;
+  margin-left: -550px;
+}
+.resume-header > h2 {
+  color: rgb(35, 102, 190);
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.resume-timeline {
+  max-width: 1100px;
+}
+
+.timeline-wrap {
+  position: relative;
+  margin-top: 1.5rem;
+  margin-bottom: 6rem;
+}
+.timeline-wrap::before {
+  content: "";
+  display: block;
+  width: 1px;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 50%;
+  top: 0;
+}
+
+.timeline_header {
+  float: left;
+  width: 50%;
+  padding-left: 20%;
+}
+.timeline_header > h3 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.timeline_header > p {
+  margin-bottom: 90px;
+  padding-bottom: 3px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: grey;
+}
+.timeline-content {
+  margin-left: 60%;
+}
+.timeline-content > p {
+  margin-top: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: grey;
+}
+.time1 {
+  margin-bottom: 165px;
+  padding-bottom: 3px;
+  font-size: 16px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: grey;
+}
+.time2 {
+  margin-bottom: 145px;
+  font-size: 16px;
+  padding-bottom: 3px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: grey;
+}
+.timeline-content h4 {
+  font-size: larger;
+  position: relative;
+  padding-bottom: 1rem;
+  padding-top: 15px;
+}
+.timeline-content h4::after {
+  content: "";
+  display: table;
+  height: 3px;
+  width: 50px;
+  background: rgba(0, 0, 0, 0.2);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+/* @media only screen and (min-width: 1200px) {
+  .timeline-wrap::before {
+    left: 50%;
+  }
+  .timeline_header {
+    padding-left: 35%;
+  }
+  .timeline-content {
+    margin-left: 55%;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .timeline-wrap::before {
+    left: 46%;
+  }
+  .timeline_header {
+    padding-left: 31%;
+  }
+  .timeline-content {
+    margin-left: 51%;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .timeline-wrap::before {
+    left: 44%;
+  }
+  .timeline_header {
+    padding-left: 29%;
+  }
+  .timeline-content {
+    margin-left: 49%;
+  }
+} */

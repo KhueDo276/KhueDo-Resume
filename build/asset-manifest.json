@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KhueDo-Website/static/css/main.b91fd9e8.css",
+    "main.js": "/KhueDo-Website/static/js/main.6830e005.js",
+    "index.html": "/KhueDo-Website/index.html",
+    "main.b91fd9e8.css.map": "/KhueDo-Website/static/css/main.b91fd9e8.css.map",
+    "main.6830e005.js.map": "/KhueDo-Website/static/js/main.6830e005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b91fd9e8.css",
+    "static/js/main.6830e005.js"
+  ]
+}
