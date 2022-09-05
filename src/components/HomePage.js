@@ -8,8 +8,7 @@ import video from "./videos/video-1.mp4";
 function HomePage() {
   return (
     <div className="hero-container">
-      {/* <img src={img} alt="" className="home-pic" /> */}
-      <video src={video} autoPlay loop muted />
+      <img src={img} alt="" className="home-pic" />
       <h1>Khue Do</h1>
       <p> Computer Science student at University of Houston</p>
       <ul className="web-logo">
