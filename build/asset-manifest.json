@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/KhueDo-Website/static/css/main.b91fd9e8.css",
-    "main.js": "/KhueDo-Website/static/js/main.6830e005.js",
+    "main.css": "/KhueDo-Website/static/css/main.dddc1d9e.css",
+    "main.js": "/KhueDo-Website/static/js/main.f7f821f7.js",
+    "static/media/home.jpg": "/KhueDo-Website/static/media/home.7d07f7f13526ced91f15.jpg",
+    "static/media/personal-website.png": "/KhueDo-Website/static/media/personal-website.dbdb46b08d7cd460b08a.png",
+    "static/media/todo-app.png": "/KhueDo-Website/static/media/todo-app.f0b99c2edeecd10e818d.png",
+    "static/media/image1.png": "/KhueDo-Website/static/media/image1.6cbbd0e59017110b08d8.png",
     "index.html": "/KhueDo-Website/index.html",
-    "main.b91fd9e8.css.map": "/KhueDo-Website/static/css/main.b91fd9e8.css.map",
-    "main.6830e005.js.map": "/KhueDo-Website/static/js/main.6830e005.js.map"
+    "main.dddc1d9e.css.map": "/KhueDo-Website/static/css/main.dddc1d9e.css.map",
+    "main.f7f821f7.js.map": "/KhueDo-Website/static/js/main.f7f821f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b91fd9e8.css",
-    "static/js/main.6830e005.js"
+    "static/css/main.dddc1d9e.css",
+    "static/js/main.f7f821f7.js"
   ]
 }

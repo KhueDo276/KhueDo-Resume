@@ -3,7 +3,6 @@ import "../App.css";
 import "./HomePage.css";
 import { AiFillGithub, AiFillLinkedin, AiFillMail } from "react-icons/ai";
 import img from "./images/home.jpg";
-import video from "./videos/video-1.mp4";
 
 function HomePage() {
   return (
