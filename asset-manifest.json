@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KhueDo-Resume/static/css/main.dddc1d9e.css",
+    "main.js": "/KhueDo-Resume/static/js/main.071b407b.js",
+    "static/media/home.jpg": "/KhueDo-Resume/static/media/home.7d07f7f13526ced91f15.jpg",
+    "static/media/personal-website.png": "/KhueDo-Resume/static/media/personal-website.dbdb46b08d7cd460b08a.png",
+    "static/media/todo-app.png": "/KhueDo-Resume/static/media/todo-app.f0b99c2edeecd10e818d.png",
+    "static/media/image1.png": "/KhueDo-Resume/static/media/image1.6cbbd0e59017110b08d8.png",
+    "index.html": "/KhueDo-Resume/index.html",
+    "main.dddc1d9e.css.map": "/KhueDo-Resume/static/css/main.dddc1d9e.css.map",
+    "main.071b407b.js.map": "/KhueDo-Resume/static/js/main.071b407b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dddc1d9e.css",
+    "static/js/main.071b407b.js"
+  ]
+}
