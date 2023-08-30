@@ -9,13 +9,15 @@ function Introduce() {
       <div className="heading">
         <img src={img1} className="profile-pic" alt="" />
         <div className="para">
-          I am a junior studying Computer Science and also a teaching assistant
-          of Intro to Prommaning course using Python at University of Houston. I
-          will complete my bachelor's degree in December 2023. I used to major
-          in Biochemistry, but I get interested in coding, and web development.
-          I finally changed major to Computer Science last year. I've been
-          studying hard and always be a top student in class. Besides, I did
-          some projects regarding web development.
+          Greetings! I'm an enthusiastic senior graduating in December 2023,
+          actively on the lookout for an exciting full-time role as a software
+          developer. With a strong background in programming and a passion for
+          creating innovative solutions, I'm dedicated to contributing my skills
+          to a dynamic team. My commitment, coupled with a proven track record
+          in various projects, reflects my readiness to embark on a rewarding
+          career in the world of software development. I'm eager to connect with
+          opportunities that align with my aspirations and make a meaningful
+          impact.
         </div>
 
         <div className="column-container">
@@ -23,7 +25,7 @@ function Introduce() {
             {" "}
             <h2>PROFILE</h2>
             <p>
-              I'm looking for an internship as a software engineer or a web
+              I'm looking for an full-time role as a software engineer or a web
               developer. If you think I'm a good fit, please contact me via
               khuedo97@gmail.com{" "}
             </p>
@@ -40,11 +42,6 @@ function Introduce() {
               coding. My areas of expertise are computer science. Below are
               higlights of my technical skills:
             </p>
-            <h3>MS SUITE</h3>
-            <div className="bar">
-              <div className="bar-fill1"></div>
-              <span className="bar-text">90%</span>
-            </div>
             <h3>PYTHON</h3>
             <div className="bar">
               <div className="bar-fill1"></div>
@@ -58,12 +55,17 @@ function Introduce() {
             <h3>JS/REACT</h3>
             <div className="bar">
               <div className="bar-fill3"></div>
+              <span className="bar-text">80%</span>
+            </div>
+            <h3>TypeScript</h3>
+            <div className="bar">
+              <div className="bar-fill1"></div>
               <span className="bar-text">70%</span>
             </div>
-            <h3>R/R Studio</h3>
+            <h3>CSS</h3>
             <div className="bar">
               <div className="bar-fill3"></div>
-              <span className="bar-text">70%</span>
+              <span className="bar-text">90%</span>
             </div>
           </div>
         </div>
