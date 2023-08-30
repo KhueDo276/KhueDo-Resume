@@ -34,14 +34,41 @@ function Exprerience() {
         <h2> Experience </h2>
         <div className="resume-timeline">
           <div className="timeline-wrap">
-            <div className="timeline_header">
+            <div className="experience_header">
+              <h3>Software Development Intern</h3>
+              <p> December 2022 - Present</p>
               <h3>Teaching assistant</h3>
-              <h5 className="time1">August 2022 - Present</h5>
+              <h5 className="time1">August 2022 - December 2022</h5>
               <h3>Volunteer</h3>
               <p> 2018 - 2019</p>
             </div>
 
             <div className="timeline-content">
+              <h4>
+                Heavy Construction Systems Specialists (HCSS), Sugar Land (TX)
+              </h4>
+              <p>
+                {" "}
+                • Handled numerous requests to modify SaaS product
+                subscriptions, fix reported defects, and perform improvements to
+                functionality in user management application for over 2,000
+                clients with over 100,000 user accounts.{" "}
+              </p>{" "}
+              <p>
+                • Accelerated API integration, reducing process time by 50% to
+                boost webpage performance.{" "}
+              </p>{" "}
+              <p>
+                {" "}
+                • Implemented visually appealing Two-Factor Authentication (2FA)
+                page and a responsive footer component in React, utilizing CSS
+                for seamless user experience.
+              </p>
+              <p>
+                {" "}
+                • Developed E2E tests for a client application using Cypress.io,
+                resulting in a 90% reduction in manual testing time.
+              </p>
               <h4>University of Houston</h4>
               <p>
                 {" "}
