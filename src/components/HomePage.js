@@ -9,7 +9,8 @@ function HomePage() {
     <div className="hero-container">
       <img src={img} alt="" className="home-pic" />
       <h1>Khue Do</h1>
-      <p> Computer Science student at University of Houston</p>
+      <p> Software Development Intern at HCSS && Computer Science student at
+        University of Houston</p>
       <ul className="web-logo">
         <li className="logo-item">
           <a
