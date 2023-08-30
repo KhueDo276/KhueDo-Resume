@@ -2,6 +2,8 @@ import CardItem from "./CardItem";
 import "./Cards.css";
 import img2 from "./images/personal-website.png";
 import img3 from "./images/todo-app.png";
+import img4 from "./images/FuelPredictionApp.png";
+import img5 from "./images/MedicalApp.png";
 
 function Cards() {
   return (
@@ -28,6 +30,28 @@ function Cards() {
         </div>
       </div>
       <h1> Academic Projects</h1>
+      <div className="cards__container">
+        <div className="cards-wrapper">
+          <ul className="cards-items">
+            <a href="https://github.com/KhueDo276/FuelPredictionApp ">
+              <CardItem
+                src={img4}
+                alt=""
+                text="Created user-centric app: APIs, React UI, led Agile fuel prediction."
+                label="Fuel-Rate Prediction Application "
+              />
+            </a>
+            <a href="https://github.com/KhueDo276/MedicalClinic ">
+              <CardItem
+                src={img5}
+                alt=""
+                text="Built MySQL CRUD, tailored authentication, and user-friendly interface."
+                label="Medical Clinic Database Application"
+              />
+            </a>
+          </ul>
+        </div>
+      </div>
       <div className="cards__container">
         <a
           className="aca-project"
